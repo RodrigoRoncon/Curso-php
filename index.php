@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curso PHP</title>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Single+Day&display=swap" rel="stylesheet">
+    
     <link rel="stylesheet" href="assets/css/estilo.css">
 </head>
 <body>
@@ -16,9 +16,9 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01 - Básico</h3>
+                    <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
                         <li><a href="#">Exercício B</a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>
@@ -91,7 +91,7 @@
         </div>
     </main>
     <footer class="rodape">
-        Cod3r & Alunos : <?= date('Y'); ?>
+        Cod3r & Alunos : 
     </footer>
 </body>
 </html>

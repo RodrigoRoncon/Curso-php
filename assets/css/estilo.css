@@ -54,7 +54,6 @@ body{
     border-radius: 10px;
 }
 
-
 .rodape {
     grid-area: rodape;
     background-color: #fff;
@@ -63,7 +62,7 @@ body{
     align-items: center;
     font-size: 1.2rem;
     padding: 0px 20px;
-    color: #444;
+    color: red;
 }
 
 .modulos {

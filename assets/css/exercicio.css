@@ -30,6 +30,7 @@ body.exercicio {
 
 .conteudo {
     font-size: 2rem;
+    color: red;
 }
 
 .conteudo > .titulo {
@@ -38,4 +39,5 @@ body.exercicio {
     padding-bottom: 10px;
     border-bottom: 1px solid #999;
     margin-bottom: 20px;
+    color: red;
 }
