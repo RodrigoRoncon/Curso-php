@@ -20,7 +20,7 @@
     <main class="principal">
         <div class="conteudo">
            <?php
-                include("{$_GET['dir']}/{$_GET['file']}.php");
+                include("basico/ola.php");
            ?>
         </div>
     </main>
